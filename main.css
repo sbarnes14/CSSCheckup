@@ -1,7 +1,21 @@
+#Bumblebee {
+    color: yellow;
+}
+
 body{
     background-color: black;
 }
 
-.bees li{
+.bees {
     color: yellow;
+    font-family:monospace;
+}
+
+.bees img{
+    width: 500px;
+    height: 400px;
+    margin: 10px 30px 30px 30px;
+    border-style: dashed;
+    border-color: yellow;
+    border-width: 5px 5px 5px 5px;
 }
